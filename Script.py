@@ -2,8 +2,8 @@ class script(object):
     START_TXT = """<blockquote><u>🦚 ʀᴀᴅʜᴀ ʀᴀᴅʜᴀ 🦚</u></blockquote>
 
 <b>ʜᴇʏ {}, {}</b>\n
-☆ ɪ ᴀᴍ<a href=https://t.me/{}>{}</a>,ᴀ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ ʕ˖͜͡˖ʔ ᴡɪᴛʜ ᴄʜᴀᴛ ɢᴘᴛ ᴀɴᴅ ɢᴏᴏɢʟᴇ ɢᴇᴍɪɴɪ ғᴏʀ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ᴍɪsᴛᴀᴋᴇs ☆\n
-˹ ɢᴘᴛ ᴀɴᴅ ɢᴇᴍɪɴɪ ᴏɴʟʏ ɴᴏᴛ ғɪɴᴅ sᴘᴇʟʟɪɴɢ ᴍɪᴀsᴛᴀᴋᴇs ᴛʜᴇʏ ᴄᴏᴜʟᴅ ᴍᴜʟᴛɪᴘʟᴇ ᴛᴀsᴋ ʜᴇʀᴇ ᴀɴᴅ ᴘᴍ . ᴛᴏ ɢᴇᴛ  ᴀʟʟ ᴛᴀsᴋ ᴛᴀᴘ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ˼
+☆ ɪ ᴀᴍ<a href=https://t.me/{}>{}</a>,ᴀ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ ʕ˖͜͡˖ʔ ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ  ☆\n
+˹ Jᴜsᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ sᴇᴇ ᴍᴀɢɪᴄ  ˼
 """
 
 
@@ -245,8 +245,8 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🌟 Rating: <a href={url}/ratings> ({rating}/10 )</a>
 
 
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
-<b>Requested by : {message.from_user.mention}</b>"""
+⏰Rᴇsᴜʟᴛ sʜᴏᴡ ɪɴ: {remaining_seconds} <i>seconds</i> 🔥
+<b>Rᴇsǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}</b>"""
 
     LOGO = r"""
     █▀▄▀█ █ █▀ █▀   █▀█ █▀█ █▀█ █░█ █ █▀▄ █▀▀ █▀█
