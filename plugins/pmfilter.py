@@ -98,10 +98,9 @@ async def pm_text(bot, message):
                     f"<b>🙋 ʜᴇʏ {user} 😍 ,\n\n"
                     "ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ 🕵 ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs ᴏɴʟʏ ⚝ ᴍɪss ᴘʀᴏᴠɪᴅᴇʀ ʀᴇǫᴜᴇsᴛ ⚝ ᴋɪɴᴅʟʏ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ.\n\n"
                     "<blockquote>"
-                    "आप अपने पसंदीदा मूवीज़/सीरीज़ की खोज कर सकते हैं 🕵 ⚝ ᴍɪss ᴘʀᴏᴠɪᴅᴇʀ ʀᴇǫᴜᴇsᴛ ⚝ कृपया यहाँ अनुरोध करें।\n\n"
-                    "আপনি আপনার প্রিয় মুভি/সিরিজ সার্চ করতে পারেন ⚝ ᴍɪss ᴘʀᴏᴠɪᴅᴇʀ ʀᴇǫᴜᴇsᴛ ⚝ অনুগ্রহ করে এখানে অনুরোধ করুন।"
+                    "PLEASE SEARCH MOVIES ON THIS OFFICIAL MOVIE GROUP"
                     "</blockquote>"
-                ), reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("⚝ ᴍɪss ᴘʀᴏᴠɪᴅᴇʀ ʀᴇǫᴜᴇsᴛ ⚝", url=GRP_LNK)]]))
+                ), reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("⚝ ʀᴇǫᴜᴇsᴛ ⚝", url=GRP_LNK)]]))
             await bot.send_message(chat_id=LOG_CHANNEL,
                                    text=(
                                        f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\n"
@@ -128,7 +127,7 @@ async def refercall(bot, query):
         await bot.edit_message_media(
             query.message.chat.id,
             query.message.id,
-            InputMediaPhoto("https://graph.org/file/d2fb6a843b34c6880dc22-0beeca6a702c7b5ebe.jpg")
+            InputMediaPhoto("https://envs.sh/o_V.jpg")
         )
     except Exception as e:    
         pass
